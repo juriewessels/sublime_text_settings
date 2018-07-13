@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"All Autocomplete",
+		"Babel",
+		"Block Cursor Everywhere",
+		"Emmet",
+		"ESLint",
+		"ESLint-Formatter",
+		"Git",
+		"Git blame",
+		"GitGutter",
+		"GitHubinator",
+		"JavaScript Completions",
+		"JSON Reindent",
+		"JSONLint",
+		"JsPrettier",
+		"JSX",
+		"Markdown Extended",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Monokai - Spacegray",
+		"Monokai++",
+		"Origami",
+		"Package Control",
+		"Solarized Color Scheme",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Terminal",
+		"Vintage-Origami",
+		"Whitespace"
+	]
+}

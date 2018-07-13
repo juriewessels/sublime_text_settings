@@ -1,0 +1,38 @@
+{
+  // SublimeLinter Settings - User
+  "gutter_theme": "Circle",
+  "linters": {
+    "eslint": {
+      "disable": false,
+      "args": [],
+      "excludes": [],
+      "env": {
+        "PATH": "/usr/local/bin"
+      }
+    }
+  },
+  "syntax_map": {
+    "html (rails)": "html",
+    "javascript (babel)": "javascript"
+  },
+  "styles": [
+      {
+          "mark_style": "none",
+          "priority": 1,
+          "scope": "region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter",
+          "icon": "dot",
+          "types": [
+              "warning"
+          ]
+      },
+      {
+          "mark_style": "none",
+          "priority": 1,
+          "scope": "region.redish markup.deleted.sublime_linter markup.error.sublime_linter",
+          "icon": "dot",
+          "types": [
+              "error"
+          ]
+      }
+  ],
+}
